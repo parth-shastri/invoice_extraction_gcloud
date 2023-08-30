@@ -1,0 +1,20 @@
+{
+    "App": {
+        "Mode": 0,
+        "Host": "0.0.0.0",
+        "Port": 8080
+    },
+    "VertexTranscribing": true,
+    "GCP": {
+        "Credentials": "credentials/document-warehouse-poc-credentials.json",
+        "ProjectId": "document-warehouse-poc-392110",
+        "Location": "us",
+        "DocAIProcessorId": {
+            "honda": "3267532f2cf69fcd",
+            "toyota": "9cc830ce1cb84902",
+            "tvs": "160edbbf156b32f",
+            "kia": "44c40cc6012053f",
+            "hyundai": "ade96bec1a216e60"
+        }
+    }
+}

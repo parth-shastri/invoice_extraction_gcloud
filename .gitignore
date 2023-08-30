@@ -1,0 +1,5 @@
+credentials/
+__pycache__
+toyota.csv
+api_call.py
+artifacts
